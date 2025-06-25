@@ -1,0 +1,23 @@
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Virtual environments
+venv/
+env/
+# Editor/IDE settings
+.vscode/
+.idea/
+# System files
+.DS_Store
+Thumbs.db
+# Logs
+*.log
+# Pytest cache
+.pytest_cache/
+# Database backups
+.pytest_cache/
+*.db
+*.sql
